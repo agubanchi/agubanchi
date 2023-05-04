@@ -6,7 +6,6 @@
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/agustinbanchi/", 
-      "Resume"   : "https://veromoreno.github.io/",
       "IG"       : "https://www.instagram.com/pepebanchi"
      }
  }
