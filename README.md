@@ -13,4 +13,18 @@
 
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusbanchi)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>🚀 Principal Stack</h3>
+![image](https://user-images.githubusercontent.com/110970144/236296419-7b1e2f59-8f62-4165-85f9-0cf0e2f0149f.png)
+
+
+<h3>Github Stats:</h3>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agubanchi&show_icons=true&theme=merko" />
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=agubanchi&show_icons=true&theme=merko" />
+</div>
+
+
