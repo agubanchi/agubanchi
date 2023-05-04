@@ -18,7 +18,21 @@
 
 
 <h3>🚀 Frontend Development</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+ <p>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress" />
+  </a>
+</p>
+ 
+ 
+<h3>🎨 Design Tools</h3>
+
+ <p>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ps,ae,pr,figma" />
+  </a>
+</p>
 
 
 <h3>Github Stats:</h3>
