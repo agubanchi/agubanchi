@@ -1,4 +1,7 @@
 
+<div align="center">
+<h1>AGUSTIN BANCHI 👨🏻‍💻
+</div>
 
 ```js
  { “Pronouns” : “He"|"Him”,
@@ -6,6 +9,7 @@
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/agustinbanchi/", 
+      "Resume" : https://www.uosolutions.com/,
       "IG"       : "https://www.instagram.com/pepebanchi"
      }
  }
@@ -13,8 +17,8 @@
 ```
 
 
-<h3>🚀 Principal Stack</h3>
-![image](https://user-images.githubusercontent.com/110970144/236296419-7b1e2f59-8f62-4165-85f9-0cf0e2f0149f.png)
+<h3>🚀 Frontend Development</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <h3>Github Stats:</h3>
