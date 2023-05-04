@@ -21,7 +21,7 @@
 
  <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,wordpress" />
   </a>
 </p>
  
