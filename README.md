@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**agubanchi/agubanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```js
+ { “Pronouns” : “He"|"Him”,
+   “role” : “Frontend Dev | Multimedia Designer”,
+   “data” : 
+     { 
+      "Linkedin" : "https://www.linkedin.com/in/agustinbanchi/", 
+      "Resume"   : "https://veromoreno.github.io/",
+      "IG"       : "https://www.instagram.com/pepebanchi"
+     }
+ }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusbanchi)](https://github.com/anuraghazra/github-readme-stats)
