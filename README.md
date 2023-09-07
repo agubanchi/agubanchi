@@ -9,7 +9,7 @@
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/agustinbanchi/", 
-      "Resume" : https://www.uosolutions.com/,
+      "current company" : https://www.uosolutions.com/,
       "IG"       : "https://www.instagram.com/pepebanchi"
      }
  }
