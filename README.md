@@ -9,7 +9,7 @@
    “data” : 
      {
       "Portfolio": "https://abanchi.com/",
-      "Linkedin" : <a href="https://www.linkedin.com/in/agustinbanchi/">"https://www.linkedin.com/in/agustinbanchi/"</a>, 
+      "Linkedin" : "https://www.linkedin.com/in/agustinbanchi/", 
       "current company" : "https://www.uosolutions.com/",
       "IG"       : "https://www.instagram.com/pepebanchi"
      }
