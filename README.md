@@ -9,8 +9,8 @@
 }
 ```
    
-     
-      [Portfolio]  (https://abanchi.com/).
+      
+  - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
       "Linkedin" : https://www.linkedin.com/in/agustinbanchi/", 
       "current company" : "https://www.uosolutions.com/",
       "IG"       : "https://www.instagram.com/pepebanchi"
