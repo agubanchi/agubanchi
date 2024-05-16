@@ -5,7 +5,9 @@
 
 ```js
  { “Pronouns” : “He"|"Him”,
-   “role” : “Frontend Dev | Multimedia Designer”
+   “role” : [Frontend Dev | Multimedia Designer],
+   "Code" : [HTML, CSS, Javascript],
+   "Tools": [React.Js, Bootstrap, Tailiwnd.css, Wordpress, Nest.js]
 }
 ```
 - [Portfolio](https://abanchi.com/)
