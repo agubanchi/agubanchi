@@ -8,7 +8,7 @@
    “role” : “Frontend Dev | Multimedia Designer”,
    “data” : 
      {
-      "Portfolio": [Portfolio] (https://abanchi.com/),
+      "Portfolio": This site was built using [GitHub Pages](https://pages.github.com/).
       "Linkedin" : https://www.linkedin.com/in/agustinbanchi/", 
       "current company" : "https://www.uosolutions.com/",
       "IG"       : "https://www.instagram.com/pepebanchi"
