@@ -5,17 +5,18 @@
 
 ```js
  { “Pronouns” : “He"|"Him”,
-   “role” : “Frontend Dev | Multimedia Designer”,
-   “data” : 
+   “role” : “Frontend Dev | Multimedia Designer”
+}
+```
+   
      
       [Portfolio]  (https://abanchi.com/).
       "Linkedin" : https://www.linkedin.com/in/agustinbanchi/", 
       "current company" : "https://www.uosolutions.com/",
       "IG"       : "https://www.instagram.com/pepebanchi"
      
- }
+ 
 
-```
 
 
 <h3>🚀 Frontend Development</h3>
