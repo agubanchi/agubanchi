@@ -8,8 +8,8 @@
    “role” : “Frontend Dev | Multimedia Designer”,
    “data” : 
      {
-      "Portfolio": "https://abanchi.com/",
-      "Linkedin" : "https://www.linkedin.com/in/agustinbanchi/", 
+      "Portfolio": [Portfolio] (https://abanchi.com/),
+      "Linkedin" : https://www.linkedin.com/in/agustinbanchi/", 
       "current company" : "https://www.uosolutions.com/",
       "IG"       : "https://www.instagram.com/pepebanchi"
      }
