@@ -6,11 +6,11 @@
 ```js
  { “Pronouns” : “He"|"Him”,
    “role” : [Frontend Dev | Multimedia Designer],
-   "Code" : [HTML, CSS, Javascript],
-   "Tools": [React.Js, Bootstrap, Tailiwnd.css, Wordpress, Nest.js]
+   "Code" : [HTML, CSS, Javascript, Typescript, React.Js],
+   "Tools": [Bootstrap, Tailiwnd.css, Wordpress, Nest.js]
 }
 ```
-- [Portfolio](https://abanchi.com/)
+- [Portfolio](https://abanchi.com.ar/)
 - [Linkedin](https://www.linkedin.com/in/agustinbanchi/)
 - [Behance](https://www.behance.net/agustinbanchi)
 
@@ -24,7 +24,7 @@
 
  <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,wordpress" />
   </a>
 </p>
  
