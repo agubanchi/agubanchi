@@ -33,7 +33,7 @@
 
  <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ps,ae,pr,figma" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
   </a>
 </p>
 
